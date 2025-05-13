@@ -1,11 +1,11 @@
-# Mahdiva-Systems
-# Mahdiva-Systems
-### The Future of Personal AI Assistant 🤖🔥
+👋 Hi! I'm Mahdiar.
 
-Mahdiva is an offline AI system designed by **Mahdiar Sharahi** to provide smart, personalized, and natural language interactions.
+🚀 A Python developer with a passion for AI and machine learning.
 
-## Features
-- Natural Language Processing
-- Offline Functionality
-- Personalized Responses
-- Self-Learning Algorithms (Coming Soon)
+🔧 Currently building smart systems and Telegram bots using LLM models and open-source tools.
+
+🌱 Continuously learning and expanding my knowledge in the fields of big data and data analysis.
+
+🔍 My projects focus on creating scalable and intelligent systems.
+
+💬 Feel free to reach out if you have questions or want to collaborate!
